@@ -1,11 +1,11 @@
 {
-  "name": "react-native-tab-navigator",
+  "name": "react-native-tab-fork",
   "version": "0.3.3",
   "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
   "main": "TabNavigator.js",
 "repository": {
   "type": "git",
-  "url": "git://github.com/EdenBeat/react-native-tab-navigator.git"
+  "url": "git+https://github.com/EdenBeat/react-native-tab-navigator.git"
 },
   "keywords": [
     "react-native",
