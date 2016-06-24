@@ -175,7 +175,7 @@ let styles = StyleSheet.create({
     opacity: 0,
   },
   defaultSelectedTitle: {
-    color: 'rgb(0, 122, 255)',
+    color: 'rgb(255, 0, 0)',
   },
   defaultSelectedIcon: {
     tintColor: 'rgb(0, 122, 255)',
