@@ -6,7 +6,7 @@
 "repository": {
   "type": "git",
   "url": "git://github.com/EdenBeat/react-native-tab-navigator.git"
-}
+},
   "keywords": [
     "react-native",
     "tab-bar",
